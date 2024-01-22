@@ -1,9 +1,9 @@
 # Minhazul Islam Sohag :mortar_board: :computer:
 
-## I'm a Developer, and Student!
+## I'm a Full Stack Developer
 
 Hi Guys!
-My self Minhazul Islam Sohag. Currently, I am studying Computer Science and Engineering at Daffodil International University. I am working as a Full-Stack web developer for the last 1 year. I am working with Python, Django, Html, CSS, Bootstrap, Javascript, etc. I am interested in working Machine learning, Deep Learning, etc.
+My self Minhazul Islam Sohag. Currently, I am working as a Full-Stack web developer for the last 3 year. I am working with PHP, Laravel, MySql, PostgraSql, TailwindCSS Html, CSS, Bootstrap, Javascript, etc.
 
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sohag47&color=brightgreen" alt="sohag47" /> </p>
