@@ -22,6 +22,30 @@
 I love writing clean, testable code, automating systems, and solving complex problems that add value.
 
 ---
+### 🚀 Professional Snapshot
+- 🧠 4+ years of hands-on experience in software development
+- ⚙️ Strong background in **Laravel**, **React/Next.js**, and **modern DevOps practices**
+- 🏗️ Experienced in building **modular monoliths** and **microservice-based systems**
+- 💡 Passionate about **refactoring**, **automation**, and **developer experience (DX)**
+- 🧪 Believe in **Test-Driven Development** (TDD), continuous integration, and code readability
+- 🧩 Advocate of **open-source contribution** and team knowledge sharing
+
+---
+
+### 🧠 Philosophy
+
+I approach programming not just as a profession, but as a **craft**. I enjoy debugging, mentoring junior devs, improving processes, and breaking down complex business logic into reusable, clean code. I'm always looking to grow as both an engineer and a problem solver.
+
+---
+
+---
+
+### ✨ Personal Motto
+
+> **“Stay curious, stay consistent — that’s how real engineers grow.”**  
+> — *Minhazul Islam Sohag*
+
+---
 
 ## 🧰 Tech Toolbox
 
@@ -54,17 +78,22 @@ I love writing clean, testable code, automating systems, and solving complex pro
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag47&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag47&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=sohag47&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag47&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
-## 🌍 Let's Connect
+### 📫 Contact
 
-Let’s talk code, performance, systems, or new ideas!  
-Connect with me on:
+If you’d like to collaborate, learn from each other, or just chat about tech:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhazul-islam-sohag/)
+- 📩 Email: `minhazul.islamcse@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/minhazul-islam-sohag/)
+- 🖥️ GitHub: [@sohag47](https://github.com/sohag47)
+
+---
+
+Feel free to fork or star any project that catches your interest — I’d love to hear your feedback!
+
