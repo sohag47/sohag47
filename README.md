@@ -38,7 +38,7 @@
 
 👋 **Hello!** I’m Minhazul, a passionate full-stack developer with over **4+ years of experience** building scalable web applications and APIs. I specialize in:
 
-- 🌐 **Laravel** for robust backend APIs  
+- 🌐 **Dotnet** for robust backend APIs  
 - ⚛️ **React/Next.js** for dynamic UIs  
 - ⚙️ **DevOps workflows** using Docker, GitHub Actions, and VPS deployments  
 
@@ -65,27 +65,3 @@ I approach programming not just as a profession, but as a **craft**. I enjoy deb
 
 > **“Stay curious, stay consistent — that’s how real engineers grow.”**  
 > — *Minhazul Islam Sohag*
-
----
-
-## 📈 GitHub Stats
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/sohag47">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sohag47&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=sohag47&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=sohag47&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag47&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sohag47&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-
